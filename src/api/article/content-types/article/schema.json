@@ -15,9 +15,12 @@
     "title": {
       "type": "string"
     },
-    "description": {
+    "excerpt": {
       "type": "text",
-      "maxLength": 80
+      "maxLength": 160
+    },
+    "content": {
+      "type": "blocks"
     },
     "slug": {
       "type": "uid",
