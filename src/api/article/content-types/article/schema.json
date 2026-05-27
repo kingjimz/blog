@@ -19,9 +19,6 @@
       "type": "text",
       "maxLength": 160
     },
-    "content": {
-      "type": "richtext"
-    },
     "slug": {
       "type": "uid",
       "targetField": "title"
