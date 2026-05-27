@@ -41,6 +41,9 @@
       "target": "api::category.category",
       "inversedBy": "articles"
     },
+    "content": {
+      "type": "richtext"
+    },
     "blocks": {
       "type": "dynamiczone",
       "components": ["shared.media", "shared.quote", "shared.rich-text", "shared.slider"]
