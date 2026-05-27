@@ -20,7 +20,7 @@
       "maxLength": 160
     },
     "content": {
-      "type": "blocks"
+      "type": "richtext"
     },
     "slug": {
       "type": "uid",
